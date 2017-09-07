@@ -1,3 +1,5 @@
+// Tonu Jaansoo 2017
+
 #ifndef GST_H
 #define GST_H
 

@@ -1,3 +1,5 @@
+// Tonu Jaansoo 2017
+
 #ifndef ELEMENT_H
 #define ELEMENT_H
 

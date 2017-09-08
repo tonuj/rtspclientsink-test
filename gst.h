@@ -4,6 +4,7 @@
 #define GST_H
 
 #include <QObject>
+#include <memory>
 
 #include "element.h"
 
